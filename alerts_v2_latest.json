@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-03-18 22:59:11",
+  "alert_count": 1,
+  "alerts": [
+    {
+      "type": "theme",
+      "priority_score": 76.17,
+      "bucket": "other",
+      "severity": "medium",
+      "title": "Theme signal: Gaming and Entertainment Industry Updates",
+      "message": "Gaming and Entertainment Industry Updates scored 76.17 with high momentum under risk_on regime."
+    }
+  ]
+}

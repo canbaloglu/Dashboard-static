@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-03-18 22:59:10",
+  "source": "OpenAI",
+  "scored_themes": [
+    {
+      "theme": "Gaming and Entertainment Industry Updates",
+      "description": "Major new releases and expansions in video gaming, alongside trending cultural content, indicate momentum in entertainment sectors.",
+      "confidence": 0.85,
+      "headline_count": 3,
+      "affected_assets": [
+        "Bethesda",
+        "Sony PlayStation",
+        "Entertainment Media"
+      ],
+      "sentiment": "bullish",
+      "asset_weight_avg": 1.0,
+      "asset_weight_max": 1.0,
+      "asset_impact_score": 1.0,
+      "strength_score": 76.17,
+      "signal_level": "strong",
+      "momentum": "high",
+      "market_regime": "risk_on"
+    },
+    {
+      "theme": "Economic and Financial Market Trends",
+      "description": "Shifts in interest rate expectations, manufacturing production growth, and preferred dividend stocks highlight evolving macroeconomic and market conditions.",
+      "confidence": 0.95,
+      "headline_count": 3,
+      "affected_assets": [
+        "ASX",
+        "Manufacturing Stocks",
+        "Interest Rate Sensitive Assets"
+      ],
+      "sentiment": "neutral",
+      "asset_weight_avg": 1.0,
+      "asset_weight_max": 1.0,
+      "asset_impact_score": 1.0,
+      "strength_score": 74.65,
+      "signal_level": "medium",
+      "momentum": "rising",
+      "market_regime": "neutral"
+    },
+    {
+      "theme": "Critical Minerals and Resource Exploration",
+      "description": "Investment and mineral discoveries in critical raw materials signal increasing capital repricing and resource sector focus.",
+      "confidence": 0.9,
+      "headline_count": 2,
+      "affected_assets": [
+        "Critical Minerals",
+        "Mining Stocks",
+        "EagleOne Metals",
+        "Verde AgriTech"
+      ],
+      "sentiment": "bullish",
+      "asset_weight_avg": 1.0,
+      "asset_weight_max": 1.0,
+      "asset_impact_score": 1.0,
+      "strength_score": 73.11,
+      "signal_level": "medium",
+      "momentum": "rising",
+      "market_regime": "risk_on"
+    },
+    {
+      "theme": "Regulatory Developments in Crypto",
+      "description": "Ongoing legislative progress and debates in the U.S. Senate concerning cryptocurrency regulation and related financial market structures.",
+      "confidence": 0.9,
+      "headline_count": 2,
+      "affected_assets": [
+        "Cryptocurrency",
+        "Fintech",
+        "Stablecoins"
+      ],
+      "sentiment": "neutral",
+      "asset_weight_avg": 1.0,
+      "asset_weight_max": 1.0,
+      "asset_impact_score": 1.0,
+      "strength_score": 70.28,
+      "signal_level": "medium",
+      "momentum": "rising",
+      "market_regime": "neutral"
+    },
+    {
+      "theme": "Technology and Innovation in Consumer Electronics",
+      "description": "Advancements and cost pressures impacting consumer electronics such as Samsung's display sourcing and Meta’s progress in VR headset technology.",
+      "confidence": 0.85,
+      "headline_count": 2,
+      "affected_assets": [
+        "Samsung",
+        "Meta",
+        "Consumer Electronics"
+      ],
+      "sentiment": "neutral",
+      "asset_weight_avg": 1.0,
+      "asset_weight_max": 1.0,
+      "asset_impact_score": 1.0,
+      "strength_score": 69.61,
+      "signal_level": "medium",
+      "momentum": "rising",
+      "market_regime": "neutral"
+    },
+    {
+      "theme": "AI and Fintech Infrastructure Readiness",
+      "description": "The fintech sector’s race to adopt AI is advancing rapidly, but institutional readiness remains mixed, influencing competitive differentiation.",
+      "confidence": 0.8,
+      "headline_count": 1,
+      "affected_assets": [
+        "Fintech",
+        "AI Technology Providers"
+      ],
+      "sentiment": "bullish",
+      "asset_weight_avg": 1.0,
+      "asset_weight_max": 1.0,
+      "asset_impact_score": 1.0,
+      "strength_score": 66.66,
+      "signal_level": "medium",
+      "momentum": "rising",
+      "market_regime": "risk_on"
+    }
+  ]
+}

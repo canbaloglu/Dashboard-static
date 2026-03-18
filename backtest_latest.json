@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-03-18 22:59:21",
+  "summary": {
+    "total_trades": 5,
+    "wins": 1,
+    "losses": 4,
+    "hit_rate": 20.0,
+    "average_return_pct": -0.98
+  },
+  "results": [
+    {
+      "date": "2026-03-17",
+      "asset": "Oil",
+      "side": "LONG",
+      "conviction": "high",
+      "signal_score": 1.29,
+      "entry_price": 96.21,
+      "latest_price": 99.05,
+      "market_move_pct": 2.95,
+      "strategy_return_pct": 2.95,
+      "status": "win"
+    },
+    {
+      "date": "2026-03-17",
+      "asset": "Defense Stocks",
+      "side": "LONG",
+      "conviction": "high",
+      "signal_score": 1.05,
+      "entry_price": 232.9,
+      "latest_price": 231.43,
+      "market_move_pct": -0.63,
+      "strategy_return_pct": -0.63,
+      "status": "loss"
+    },
+    {
+      "date": "2026-03-17",
+      "asset": "Gold",
+      "side": "LONG",
+      "conviction": "high",
+      "signal_score": 1.0,
+      "entry_price": 5001.0,
+      "latest_price": 4823.9,
+      "market_move_pct": -3.54,
+      "strategy_return_pct": -3.54,
+      "status": "loss"
+    },
+    {
+      "date": "2026-03-17",
+      "asset": "Retail Stocks",
+      "side": "LONG",
+      "conviction": "high",
+      "signal_score": 1.0,
+      "entry_price": 80.36,
+      "latest_price": 78.99,
+      "market_move_pct": -1.7,
+      "strategy_return_pct": -1.7,
+      "status": "loss"
+    },
+    {
+      "date": "2026-03-17",
+      "asset": "Consumer Credit Companies",
+      "side": "LONG",
+      "conviction": "high",
+      "signal_score": 0.87,
+      "entry_price": 300.27,
+      "latest_price": 294.39,
+      "market_move_pct": -1.96,
+      "strategy_return_pct": -1.96,
+      "status": "loss"
+    }
+  ]
+}

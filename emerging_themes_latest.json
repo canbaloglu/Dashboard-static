@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-03-18 22:59:10",
+  "source": "OpenAI",
+  "themes": [
+    {
+      "theme": "Regulatory Developments in Crypto",
+      "description": "Ongoing legislative progress and debates in the U.S. Senate concerning cryptocurrency regulation and related financial market structures.",
+      "confidence": 0.9,
+      "headline_count": 2,
+      "affected_assets": [
+        "Cryptocurrency",
+        "Fintech",
+        "Stablecoins"
+      ],
+      "sentiment": "neutral",
+      "representative_headlines": [
+        "Crypto Bill Stablecoin Yield Compromise Could Come This Week: Tim Scott",
+        "Senate begins debating Trump-backed SAVE America Act, but it's unlikely to pass"
+      ]
+    },
+    {
+      "theme": "Technology and Innovation in Consumer Electronics",
+      "description": "Advancements and cost pressures impacting consumer electronics such as Samsung's display sourcing and Meta’s progress in VR headset technology.",
+      "confidence": 0.85,
+      "headline_count": 2,
+      "affected_assets": [
+        "Samsung",
+        "Meta",
+        "Consumer Electronics"
+      ],
+      "sentiment": "neutral",
+      "representative_headlines": [
+        "Samsung could swap its own Galaxy displays for cheaper alternatives",
+        "Meta's Next Headset Will Reportedly Have 2.5K Micro-OLED Displays"
+      ]
+    },
+    {
+      "theme": "Economic and Financial Market Trends",
+      "description": "Shifts in interest rate expectations, manufacturing production growth, and preferred dividend stocks highlight evolving macroeconomic and market conditions.",
+      "confidence": 0.95,
+      "headline_count": 3,
+      "affected_assets": [
+        "ASX",
+        "Manufacturing Stocks",
+        "Interest Rate Sensitive Assets"
+      ],
+      "sentiment": "neutral",
+      "representative_headlines": [
+        "Live: Chance of RBA interest rate hike in May drops to 40pc, ASX likely to rise",
+        "Manufacturing is quietly having its best stretch in years",
+        "Forget CBA shares! Buy these ASX dividend shares instead for passive income"
+      ]
+    },
+    {
+      "theme": "Gaming and Entertainment Industry Updates",
+      "description": "Major new releases and expansions in video gaming, alongside trending cultural content, indicate momentum in entertainment sectors.",
+      "confidence": 0.85,
+      "headline_count": 3,
+      "affected_assets": [
+        "Bethesda",
+        "Sony PlayStation",
+        "Entertainment Media"
+      ],
+      "sentiment": "bullish",
+      "representative_headlines": [
+        "Starfield is coming to PlayStation 5 on April 7",
+        "We Saw Starfield's Big Overhaul and DLC - Is It Enough to Revive Bethesda's Space RPG?",
+        "Starfield PS5 Launch, Free Lanes Update, and Terran Armada DLC: Everything Announced + Tim Lamb Q&A"
+      ]
+    },
+    {
+      "theme": "Critical Minerals and Resource Exploration",
+      "description": "Investment and mineral discoveries in critical raw materials signal increasing capital repricing and resource sector focus.",
+      "confidence": 0.9,
+      "headline_count": 2,
+      "affected_assets": [
+        "Critical Minerals",
+        "Mining Stocks",
+        "EagleOne Metals",
+        "Verde AgriTech"
+      ],
+      "sentiment": "bullish",
+      "representative_headlines": [
+        "Capital Is Repricing North American Critical Minerals: What Comes Next",
+        "Verde Expands Minas Americas Magnet-Rich Ionic Clay Discovery Beyond 3.5 km²; MAV_AD_0028 Returns 10 m at 0.84% TREO"
+      ]
+    },
+    {
+      "theme": "AI and Fintech Infrastructure Readiness",
+      "description": "The fintech sector’s race to adopt AI is advancing rapidly, but institutional readiness remains mixed, influencing competitive differentiation.",
+      "confidence": 0.8,
+      "headline_count": 1,
+      "affected_assets": [
+        "Fintech",
+        "AI Technology Providers"
+      ],
+      "sentiment": "bullish",
+      "representative_headlines": [
+        "Fintech’s A.I. Adoption Race: Innovation Outpacing Institutional Readiness"
+      ]
+    }
+  ]
+}
